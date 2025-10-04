@@ -1,4 +1,4 @@
-name: Deploy to Snowflake with Secret Creds (Dev)
+name: Deploy to Snowflake with Secret Creds (UAT)
 
 on:
   push:
